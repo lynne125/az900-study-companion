@@ -1,0 +1,37 @@
+[
+{
+"question":"What is the primary benefit of cloud computing?",
+"options":[
+"Buying more servers",
+"Scalability",
+"Local storage",
+"Reduced internet access"
+],
+"correct":1,
+"explanation":"Cloud computing allows resources to scale up or down based on demand."
+},
+
+{
+"question":"Which cloud model provides shared resources over the internet?",
+"options":[
+"Private Cloud",
+"Public Cloud",
+"Local Network",
+"Datacenter"
+],
+"correct":1,
+"explanation":"Public cloud services are delivered over the internet and shared among customers."
+},
+
+{
+"question":"What does Azure Virtual Machine provide?",
+"options":[
+"Physical computer",
+"Database only",
+"Virtualized computing resources",
+"Email hosting"
+],
+"correct":2,
+"explanation":"Azure Virtual Machines provide on-demand computing resources."
+}
+]
